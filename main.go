@@ -1,4 +1,3 @@
-package helloWorld;
-
+package main
 func main(){
 }
